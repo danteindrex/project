@@ -1,0 +1,4 @@
+#requirments.txt
+langchain==0.0.222   # Ensure this version is installed for compatibility with the code.
+ollama==0.1.0        # The Ollama API client library
+llama-index==0.5.6   # If using Llama3.2 in conjunction with Llama-Index (optional but useful for LLM integration)
